@@ -1,4 +1,4 @@
-# clicker
+# Flappy Flutter
 
 A new Flutter project.
 
